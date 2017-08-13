@@ -1,0 +1,20 @@
+{
+  "name": "tstodos",
+  "version": "1.0.0",
+  "description": "Simple todo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server --port=8000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "es6-promise": "^4.0.5",
+    "ts-loader": "^0.8.2",
+    "typescript": "^2.0.3",
+    "webpack": "^1.13.2"
+  },
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
